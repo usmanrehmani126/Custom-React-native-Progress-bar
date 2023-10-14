@@ -14,7 +14,7 @@ npx react-native@latest init appName
 # To start server run 
 
 ```
- npm start for expo and npx react-native run-android for React native CLI
+ npx react-native run-android
 
 ```
-# Note:There is no need of any third party Library for this Animation.All the steps and Code are mention in App.js file.
+# Note:There is no need of any third party Library for this Animation.All the steps and Code are mention in App.js file.It works for both Expo and CLI
