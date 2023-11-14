@@ -17,4 +17,4 @@ npx react-native@latest init appName
  npx react-native run-android
 
 ```
-# Note:There is no need of any third party Library for this Animation.All the steps and Code are mention in App.js file.It works for both Expo and CLI
+# Note:There is no need of any third party Library for this Animation.All the steps and Code are mention in App.js file.It works for both Expo and CLI as well as Android and IOS.
